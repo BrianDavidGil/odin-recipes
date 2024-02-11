@@ -6,18 +6,19 @@ body{
     background-color: #ddd;
 }
 
-ul {
+div ul {
     list-style: none;
     line-height: 40px;
     text-align: center;
 }
 
-li{
+div ul li{
     margin: 10px;
     background-color: wheat;
 }
-li:hover{
+div ul li:hover{
     background-color: rgb(57, 182, 167);
+
 }
 
 h1 {
